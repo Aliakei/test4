@@ -37,6 +37,7 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
 ManagedProjectGUID=
+VcsMigrated=9F75F4A7-4E81-4878-94E6-66D19FAA3D51|30E3A8AA-5119-4422-9A24-37AC3E37D430
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=9F75F4A7-4E81-4878-94E6-66D19FAA3D51&ItemGUID=4BE2565A-8DEC-4172-9253-F067F5913963&RevisionGUID=CD0BB491-332C-4ED0-8D44-1567C13D79E0&"MainFilename=PCB_Project1.PrjPCB"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
